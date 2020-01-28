@@ -1,2 +1,3 @@
 # Hangman-Game-using-Python
-Code for the Hangman Game in Python
+Code for the Hangman Game in Python.
+Used Python library - random
